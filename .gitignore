@@ -1,5 +1,7 @@
 .env
 /env
+.venv
+/venv
 doc_search_env/
 /doc_search_env
 __pycache__/
