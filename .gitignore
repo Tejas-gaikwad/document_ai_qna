@@ -1,5 +1,7 @@
 .env
 /env
+/.env
+
 .venv
 /venv
 doc_search_env/
